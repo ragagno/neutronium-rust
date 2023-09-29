@@ -1,0 +1,12 @@
+[package]
+name = "neutronium"
+version = "1.0.0"
+edition = "2021"
+
+[features]
+
+[dependencies]
+
+[[bin]]
+name = "neutronium"
+path = "sources/main.rs"
