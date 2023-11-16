@@ -69,7 +69,7 @@ You need to have a working git installation, a JVM and the Rust compiler.
 
 ### Usage
 
-I recommend that you developr your project in [Rust Rover](https://www.jetbrains.com/rust) as it is the best Rust IDE there is.
+I recommend that you develop your project in [Rust Rover](https://www.jetbrains.com/rust) as it is the best Rust IDE there is.
 
 If you prefer basic text editors like [JetBrains Fleet](https://www.jetbrains.com/fleet) or [Visual Studio Code](https://code.visualstudio.com), you can compile the project using the following commands.
 

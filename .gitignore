@@ -1,5 +1,7 @@
+# IDE and text editors
+.idea/
+.fleet/
+.vscode/
+
 # cargo build directory
 target/
-
-# cargo file
-Cargo.lock
